@@ -1,1 +1,1 @@
-# neoking
+# neoking for c/c++
